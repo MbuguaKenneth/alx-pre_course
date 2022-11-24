@@ -1,2 +1,2 @@
 My first readme
-editted on web GUI
+edited on web GUI
